@@ -1,0 +1,6 @@
+[
+    //{ "key": "f4",    "command": "code-runner.run" },
+    { "key": "f4",          "command": "workbench.debug.action.toggleRepl" },
+    { "key": "ctrl+shift+o",         "command": "workbench.action.output.toggleOutput" },
+    { "key": "f3",    "command": "workbench.action.terminal.toggleTerminal" },
+]
